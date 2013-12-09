@@ -4,9 +4,9 @@
 
 var words = {
 ///////////////////////////////////////////////////////
-"Woot!" : "Gostei!",
-"Meh" : "Ruim",
-"Grab" : "Adicionar",
+"Woot!" : "Bacana !",
+"Meh" : "Chato !",
+"Grab" : "Add isto",
 "this will play on your next turn" : "Bir daha Turda Calıcagınız Şarkı",
 "Welcome to the plug.dj beta. Version 0.9.805" : "Editado por Avengers e 4SharedPRO",
 "Hosted by:" : "Dono da sala",
